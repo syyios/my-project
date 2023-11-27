@@ -1,0 +1,34 @@
+.header-container {
+    width: 1190px;
+    margin: 0 auto;
+}
+
+.page-header {
+    height: 120px;
+}
+
+.left-logo {
+    width: 190px;
+    height: 120px;
+}
+
+.rightSearch form {
+    font-size: 0px;
+    margin-top: 42px;
+}
+
+.searchInput {
+    width: 508px;
+    height: 34px;
+    border: 1px solid #DD302D;
+}
+
+.searchBtn {
+    width: 80px;
+    height: 36px;
+    background-color: #DD302D;
+    background-image: url('../images/serch_icon.png');
+    background-repeat: no-repeat;
+    background-position: 28px 6px;
+    vertical-align: top;
+}

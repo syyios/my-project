@@ -1,0 +1,60 @@
+.container {
+    margin: 0 auto;
+    width: 1190px;
+}
+
+.topBar {
+    height: 30px;
+    background-color: #ECECEC;
+    /* color: #fff; */
+}
+
+.container .welcome {
+    height: 30px;
+    line-height: 30px;
+    font-size: 0px;
+    color: #666;
+}
+
+.welcome span, .welcome a {
+    font-size: 12px;
+}
+
+.welcome .hello {
+    margin-right: 28px;
+}
+
+.welcome .login {
+    padding-right: 10px;
+    border-right: 1px solid #666;
+}
+
+.welcome .register {
+    padding-left: 10px;
+}
+
+.topRightNav .navList {
+    height: 30px;
+    line-height: 30px;
+}
+
+.topRightNav .navList li {
+    float: left;
+    color: red;
+}
+
+.topRightNav .navList li a {
+    font-size: 12px;
+    padding-right: 15px;
+    border-right: 1px solid #666;
+    padding-left: 15px;
+}
+
+.topRightNav .navList li:first-child a {
+    padding-left: 0px;
+}
+
+.topRightNav .navList li:last-child a {
+    padding-right: 0px;
+    border: none;
+}
